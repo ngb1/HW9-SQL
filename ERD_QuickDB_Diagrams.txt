@@ -31,7 +31,7 @@ emp_no pk integer fk >- dept_emp.emp_no
 birth_date date
 first_name varchar
 last_name varchar
-gender varchar 
+gender char 
 hire_date date
 
 
