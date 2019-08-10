@@ -16,7 +16,7 @@ In this assignment, designed the tables to hold data in the CSVs, imported the C
 
 #### Data Modeling
 
-I inspected the CSVs and sketch out an ERD of the tables. I used the following tool to pertform this sketch: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+I inspected the CSVs and sketched out an ERD of the tables. I used the following tool to pertform this sketch: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 After several iterations I obtained the following structure, that worked fine when importing the csv data into the data base.
 ![thereal_QuickDBD-export.png](thereal_QuickDBD-export.png)
@@ -34,55 +34,48 @@ After several iterations I obtained the following structure, that worked fine wh
 Once I completed the database, I did the following:
 
 1. Listed the following details of each employee: employee number, last name, first name, gender, and salary.
+![question1.png](question1.png)
 
-2. Listed employees who were hired in 1986.
+I ordered it in descent order by salary, the highest salary is $129k
+
+2. Listed employees who were hired in 1986. 36150 employees were hired in this period
+![question2.png](question2.png)
 
 3. Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+![question3.png](question3.png)
 
 4. Listed the department of each employee with the following information: employee number, last name, first name, and department name.
+![question4.png](question4.png)
 
 5. Listed all employees whose first name is "Hercules" and last names begin with "B."
+![question5.png](question5.png)
 
 6. Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
+![question6.png](question6.png)
 
 7. Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![question7.png](question7.png)
 
 8. In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
+![question8.png](question8.png)
 
-
-
-## Bonus (Optional)
-
-As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
-
-1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
-
-   ```sql
-   from sqlalchemy import create_engine
-   engine = create_engine('postgresql://localhost:5432/<your_db_name>')
-   connection = engine.connect()
-   ```
-
-* Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
-
-* If using a password, do not upload your password to your GitHub repository. See [https://www.youtube.com/watch?v=2uaTPmNvH0I](https://www.youtube.com/watch?v=2uaTPmNvH0I) and [https://martin-thoma.com/configuration-files-in-python/](https://martin-thoma.com/configuration-files-in-python/) for more information.
-
-2. Create a bar chart of average salary by title.
-
-3. You may also include a technical report in markdown format, in which you outline the data engineering steps taken in the homework assignment.
 
 ## Epilogue
 
-Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+Evidence in hand, I marched into my boss's office and presented the results. With a sly grin, my boss thanks me for my work. On my way out of the office, I hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942. So here youg o, than you guys, that's a funny one!
+![epilogue.png](epilogue.png)
+
 
 ## Submission
 
-* Create an image file of your ERD.
+* Created an image file of my ERD.
 
-* Create a `.sql` file of your table schemata.
+* Created a `.sql` file of my table schemata.
 
-* Create a `.sql` file of your queries.
-
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
+* Created a `.sql` file of my queries.
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+
+## Authors
+
+* **Nicolas Gomez Bustamante** - *Initial work* - [PurpleBooth](https://github.com/nbg1)
