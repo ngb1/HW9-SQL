@@ -62,19 +62,19 @@ I ordered it in descent order by salary, the highest salary is $129k
 
 ## Epilogue
 
-Evidence in hand, I marched into my boss's office and presented the results. With a sly grin, my boss thanks me for my work. On my way out of the office, I hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942. So here youg o, than you guys, that's a funny one!
+Evidence in hand, I marched into my boss's office and presented the results. With a sly grin, my boss thanks me for my work. On my way out of the office, I hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942. So here you go, thank you guys, that's a funny one!
 ![epilogue.png](epilogue.png)
 
 
 ## Submission
 
-* Created an image file of my ERD.
+* Created the `thereal_QuickDBD-export.png` image file of my ERD.
 
-* Created a `.sql` file of my table schemata.
+* Created the `thereal_QuickDBD-export.sql` file of my table schemata.
 
-* Created a `.sql` file of my queries.
+* Created the `Answers.sql` file of my queries.
 
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+* Createe and uploaded a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 ## Authors
 
