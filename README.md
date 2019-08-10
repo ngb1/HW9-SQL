@@ -68,13 +68,13 @@ Evidence in hand, I marched into my boss's office and presented the results. Wit
 
 ## Submission
 
-* Created an image file of my ERD.
+* Created the `thereal_QuickDBD-export.png` image file of my ERD.
 
-* Created a `.sql` file of my table schemata.
+* Created the `thereal_QuickDBD-export.sql` file of my table schemata.
 
-* Created a `.sql` file of my queries.
+* Created the `Answers.sql` file of my queries.
 
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+* Createe and uploaded a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 ## Authors
 
