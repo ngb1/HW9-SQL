@@ -62,7 +62,7 @@ I ordered it in descent order by salary, the highest salary is $129k
 
 ## Epilogue
 
-Evidence in hand, I marched into my boss's office and presented the results. With a sly grin, my boss thanks me for my work. On my way out of the office, I hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942. So here youg o, than you guys, that's a funny one!
+Evidence in hand, I marched into my boss's office and presented the results. With a sly grin, my boss thanks me for my work. On my way out of the office, I hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942. So here you go, thank you guys, that's a funny one!
 ![epilogue.png](epilogue.png)
 
 
