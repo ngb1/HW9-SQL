@@ -1,4 +1,4 @@
-# Employee Database: A Mystery in Two Parts
+# HW9-SQL "Employee Database: A Mystery in Two Parts"
 
 ## Background
 
